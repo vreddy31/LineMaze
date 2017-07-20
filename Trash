@@ -18,8 +18,7 @@ int main(void) {
 
 //lay out known values here (where there are known zeros etc.)
 
-//ask where user is starting
-
+//ask where user is starting  -this and next task need to be hardcoded in
 //ask where user is going
 
 //what it must do: go forward one cell, turn right, check if branch right, 
